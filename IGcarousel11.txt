@@ -1,0 +1,4 @@
+External scripts can be referenced in 3 different ways:
+	1. With a full url(a full web address).
+	2. With a file path e.g comics/comic.js
+	3. Without any path e.g comic.js
